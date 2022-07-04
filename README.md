@@ -18,7 +18,7 @@
 
 ### Módulo 8  (Git/Github)
 
-### Módulo 9  ( assunto x )
+### Módulo 9  (Agregações e Operações em Grupo)
 
 ### Módulo 10  (Análise Descritiva)
 
